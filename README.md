@@ -1,6 +1,6 @@
 # Web Text-to-Speech Converter
 
-![Project Screenshot](https://i.pinimg.com/736x/db/02/a0/db02a00ad4d0778c90e43fcc806cf53e.jpg)
+
 
 A minimalist web application that converts text to speech using the browser's built-in Web Speech API.
 
