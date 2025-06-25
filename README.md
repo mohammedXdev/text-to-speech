@@ -1,5 +1,7 @@
 # Web Text-to-Speech Converter
+## App Screenshot
 
+![Text-to-Speech UI](screenshot.jpg)
 
 
 A minimalist web application that converts text to speech using the browser's built-in Web Speech API.
