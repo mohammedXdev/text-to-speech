@@ -81,33 +81,4 @@ Push to the branch
 
 Open a pull request
 
-Key features of this README:
-1. Matches your actual project structure (HTML/CSS/JS web app)
-2. Highlights the Web Speech API usage
-3. Includes the beautiful background image as a visual element
-4. Provides clear usage instructions
-5. Mentions browser compatibility
-6. Has proper formatting for GitHub
 
-To use:
-1. Copy this entire text
-2. Create a new file named `README.md` in your project folder
-3. Paste the content
-4. Save and commit to GitHub
-
-Would you like me to add any additional sections like troubleshooting, known issues, or more detailed customization instructions?
-Key features of this README:
-1. Matches your actual project structure (HTML/CSS/JS web app)
-2. Highlights the Web Speech API usage
-3. Includes the beautiful background image as a visual element
-4. Provides clear usage instructions
-5. Mentions browser compatibility
-6. Has proper formatting for GitHub
-
-To use:
-1. Copy this entire text
-2. Create a new file named `README.md` in your project folder
-3. Paste the content
-4. Save and commit to GitHub
-
-Would you like me to add any additional sections like troubleshooting, known issues, or more detailed customization instructions?
